@@ -1,0 +1,6 @@
+name: TheodeoEconomy
+version: 1.0.0
+main: com.theodeo.theodeoeconomy.TheodeoEconomy
+api-version: '1.21'
+author: Theodor
+description: The official economy plugin for TheodeoSMP

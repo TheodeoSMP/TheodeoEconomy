@@ -30,4 +30,6 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: TheodeoEconomy
+<<<<<<< HEAD
           path: target/*.jar
+>>>>>>> c97e724 (Create TheodeoEconomy plugin)
